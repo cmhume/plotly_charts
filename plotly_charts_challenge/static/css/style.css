@@ -1,0 +1,10 @@
+body {
+
+    color: rgb(24, 20, 20);
+}
+
+.jumbotron {
+    background-image: url("../images/najla-cam-F71ZHHBYs3w-unsplash.jpg");
+    background-size: 50% 100%;
+    text-align: center justify;
+  }
