@@ -1,1 +1,2 @@
-# plotly_charts
+# Plotly Charts
+The purpose of this assignment was to build an interactive index.html that displayed the research subject's data chosen from a drop down menu on three different charts; a bar chart displaying the top ten bacterial cultures found, a bubble chart with relative size and type of all bacterial cultures found, and a guage chart displaying washing frequency per week of the test subject.  The data for the charts was retrieved from the samples.json file.
